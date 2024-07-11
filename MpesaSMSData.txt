@@ -1,0 +1,8 @@
+----------------------------------
+Transaction ID: SGB8C8ZE4K
+Amount: Ksh150.00
+Name: 
+Phone Number: 0798765432
+Time: 11/7/24 at 4:53 PM
+Balance: Ksh3,110.91.
+----------------------------------

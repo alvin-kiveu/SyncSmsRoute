@@ -1,0 +1,10 @@
+----------------------------------
+Timestamp: 2024-07-11 22:56:43
+Message Type: sms
+Message: SGB8C8ZE4K Confirmed. Ksh150.00 sent to JANE  DOE 0798765432 on 11/7/24 at 4:53 PM. New M-PESA balance is Ksh3,110.91. Transaction cost, Ksh7.00. Amount you can transact within the day is 498,779.00. Send Kes200 or more on MPESA for a chance to win 1M WEEKLY with Shine Kenya Mamili! STOP *456*9*5#
+Action: incoming
+From: UMS_SMS
+Phone Number: 0768168060
+Battery: 14%
+Network: WIFI
+----------------------------------
